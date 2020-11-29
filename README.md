@@ -14,6 +14,8 @@
 Start a new project with create-react-app and the typescript flag.
 ```bash
 $ npx create-react-app my-app --template typescript
+# or
+$ yarn create react-app my-app -template typescript
 ```
 
 ### NPM Packages
