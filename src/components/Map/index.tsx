@@ -63,4 +63,3 @@ Map.defaultProps = {
 
 export { Map };
 
-// AIzaSyD7ZcsFCAtJbQMA6pta1G1XsRvFXLtpJfI
